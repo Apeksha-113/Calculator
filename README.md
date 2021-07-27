@@ -1,3 +1,4 @@
+/*Calculato app*/
 from tkinter import *
 
 from tkinter import colorchooser
